@@ -5,7 +5,9 @@ Desenvolvedor Front End em Elógica Processamento de Dados Ltda.
 
 Estudante da Ete Porto Digital
 
-Estudando kotlin/React
+Estudando:
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,docker)](https://skillicons.dev)
 
 Trabalhando atualmente com:
 
@@ -14,4 +16,3 @@ Trabalhando atualmente com:
 My Skills:
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,c#)](https://skills.thijs.gg)
-
