@@ -11,7 +11,7 @@ Estudando:
 
 Trabalhando atualmente com:
 
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skills.thijs.gg)
 
 My Skills:
 
