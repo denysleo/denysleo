@@ -11,7 +11,7 @@ Estudando:
 
 Trabalhando atualmente com:
 
-[![My Skills](https://skills.thijs.gg/icons?i=ts,angular,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=reactnative)](https://skills.thijs.gg)
 
 My Skills:
 
