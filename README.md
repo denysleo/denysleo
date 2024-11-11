@@ -15,4 +15,4 @@ Trabalhando atualmente com:
 
 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c#,angular,react,python)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c#,angular,react)](https://skills.thijs.gg)
