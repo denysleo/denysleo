@@ -7,12 +7,12 @@ Estudante da Cesar School
 
 Estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker)](https://skillicons.dev)
 
 Trabalhando atualmente com:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,vuejs)](https://skills.thijs.gg)
 
 My Skills:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,c#)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,c#,angular)](https://skills.thijs.gg)
